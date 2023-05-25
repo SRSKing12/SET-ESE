@@ -1,3 +1,0 @@
-This is a sample file ABC.
-Modified abcd !!
-Modify by branch-2 !
